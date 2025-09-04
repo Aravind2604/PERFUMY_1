@@ -1,4 +1,4 @@
-# 🌸 Perfumy CSS Project
+# 🌸 Perfumy - CSS Project
 
 A simple and elegant *perfume shopping website* built using *HTML* and *CSS*.
 This project showcases different perfumes with images, descriptions, and dedicated *About Us* & *Contact Us* sections.
